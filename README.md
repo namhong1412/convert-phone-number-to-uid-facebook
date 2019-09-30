@@ -3,7 +3,7 @@
 
 Link demo
 -------------
-`<link>` : <http://techhubvn.com/contactcrush
+`<link>` : <http://techhubvn.com/contactcrush>
 
 Project interface:
 
