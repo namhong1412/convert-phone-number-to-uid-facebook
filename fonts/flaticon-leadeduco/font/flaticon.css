@@ -1,0 +1,83 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/09/2018 02:26
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-school:before { content: "\f100"; }
+.flaticon-medal:before { content: "\f101"; }
+.flaticon-best:before { content: "\f102"; }
+.flaticon-book:before { content: "\f103"; }
+.flaticon-student:before { content: "\f104"; }
+.flaticon-open-book:before { content: "\f105"; }
+.flaticon-light-bulb:before { content: "\f106"; }
+.flaticon-test:before { content: "\f107"; }
+.flaticon-mortarboard:before { content: "\f108"; }
+.flaticon-medal-1:before { content: "\f109"; }
+.flaticon-bookshelf:before { content: "\f10a"; }
+.flaticon-professor:before { content: "\f10b"; }
+.flaticon-paint-palette:before { content: "\f10c"; }
+.flaticon-molecule:before { content: "\f10d"; }
+.flaticon-university:before { content: "\f10e"; }
+.flaticon-blackboard:before { content: "\f10f"; }
+.flaticon-flask:before { content: "\f110"; }
+.flaticon-apple:before { content: "\f111"; }
+.flaticon-microscope:before { content: "\f112"; }
+.flaticon-alarm-clock:before { content: "\f113"; }
+.flaticon-backpack:before { content: "\f114"; }
+.flaticon-desk:before { content: "\f115"; }
+.flaticon-board:before { content: "\f116"; }
+.flaticon-atom:before { content: "\f117"; }
+.flaticon-school-bus:before { content: "\f118"; }
+.flaticon-book-1:before { content: "\f119"; }
+.flaticon-diploma:before { content: "\f11a"; }
+.flaticon-briefcase:before { content: "\f11b"; }
+.flaticon-basketball:before { content: "\f11c"; }
+.flaticon-pencil:before { content: "\f11d"; }
+.flaticon-test-tubes:before { content: "\f11e"; }
+.flaticon-owl:before { content: "\f11f"; }
+.flaticon-mouse:before { content: "\f120"; }
+.flaticon-notebook:before { content: "\f121"; }
+.flaticon-earth-globe:before { content: "\f122"; }
+.flaticon-diploma-1:before { content: "\f123"; }
+.flaticon-glasses:before { content: "\f124"; }
+.flaticon-american-football:before { content: "\f125"; }
+.flaticon-paint-brush:before { content: "\f126"; }
+.flaticon-column:before { content: "\f127"; }
+.flaticon-compass:before { content: "\f128"; }
+.flaticon-set-square:before { content: "\f129"; }
+.flaticon-eraser:before { content: "\f12a"; }
+.flaticon-pen:before { content: "\f12b"; }
+.flaticon-clip:before { content: "\f12c"; }
+.flaticon-scissors:before { content: "\f12d"; }
+.flaticon-abacus:before { content: "\f12e"; }
+.flaticon-fountain-pen:before { content: "\f12f"; }
+.flaticon-bell:before { content: "\f130"; }
+.flaticon-violin:before { content: "\f131"; }
+.flaticon-whistle:before { content: "\f132"; }
+.flaticon-momentum:before { content: "\f133"; }
